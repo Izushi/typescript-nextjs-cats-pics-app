@@ -15,3 +15,5 @@ export default function Home() {
     </div >
   );
 }
+
+// TODO: to show a cat image when the first page load with SSR.
